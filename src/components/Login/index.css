@@ -1,0 +1,9 @@
+.login-button {
+  background-color: #b5b9ff;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: 'Roboto', sans-serif;
+}
